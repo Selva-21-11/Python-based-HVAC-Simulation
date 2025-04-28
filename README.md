@@ -26,10 +26,11 @@ This project simulates an energy-efficient Heating, Ventilation, and Air Conditi
 | Temperature Stability | Moderate | High |
 
 ### 📈 Traditional HVAC Room Temperature
-![Traditional HVAC Result](images/traditional_hvac_result.png)
+![TR output](https://github.com/user-attachments/assets/d82408b0-2c78-4b2e-b418-9e25f73064d6)
 
 ### 📈 AI-Enhanced HVAC Room Temperature
-![AI-Enhanced HVAC Result](images/ai_hvac_result.png)
+![AI output](https://github.com/user-attachments/assets/519616ab-d9c1-4edd-955e-a156c9bd1baa)
+
 
 *(Replace the above image links after uploading your result graphs inside an `images/` folder.)*
 
@@ -60,10 +61,6 @@ This project simulates an energy-efficient Heating, Ventilation, and Air Conditi
 5. **View the results**:
    - Output graphs for Room Temperature, Outdoor Temperature, and Humidity Trends will be plotted automatically.
    - Energy consumption and HVAC runtime will be printed in the console.
-   - Ai output
-![AI output](https://github.com/user-attachments/assets/f4f8bc9e-aab5-4e82-a5e9-6ee0cac6dee8)
-  - Traditonal output
-![TR output](https://github.com/user-attachments/assets/c86b3997-d9d1-43bc-867f-42b2bf90a71f)
 
 ## 🔮 Future Improvements
 - Expand simulation to multi-zone HVAC systems.
