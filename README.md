@@ -27,8 +27,10 @@ This project simulates an energy-efficient Heating, Ventilation, and Air Conditi
 
 ### 📈 Traditional HVAC Room Temperature
 
+![TR output](https://github.com/user-attachments/assets/5be7014d-adef-426d-b26a-311b5a1b4d2c)
 
 ### 📈 AI-Enhanced HVAC Room Temperature
+![AI output](https://github.com/user-attachments/assets/4f87c9bd-527f-4c3c-9c2e-d6353e92dab4)
 
 ## 🚀 How to Run the Project
 
