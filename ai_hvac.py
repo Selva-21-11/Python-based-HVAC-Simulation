@@ -6,8 +6,8 @@ import json
 import requests
 
 # 🔐 OpenWeather API Configuration
-API_KEY = "77be2c6588d8ba76996beb50beac69a5"      # Replace this with your API key
-CITY_NAME = "Madurai"       # Replace this with your city name
+API_KEY = ""      # Replace this with your API key
+CITY_NAME = ""       # Replace this with your city name
 
 # Constants
 ROOM_TEMP = 24.5  
